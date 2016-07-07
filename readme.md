@@ -4,11 +4,13 @@
 
 We've set you up in starter-code with an API for capturing your favorite embarrassing quotes – Quotes, Inc. We've thrown in a few styles for you, too, but you might have to mimic some class names and templates. Feel free to delete our style and fancy it up on your own.
 
-Your goal will be to convert an Express JSON API to render views. It's up to you to take it from JSON to EJS, and we haven't given you a lot to start with. It'll help you practice installing the tools you need and setting them up from scratch.
+Your goal will be to convert an Express JSON API to render views. It's up to you to take it from JSON to Handelbars, 
+and we haven't given you a lot to start with. It'll help you practice installing the tools you need and setting them 
+up from scratch.
 
 ## Exercise
 
-- Use EJS to create views for your RESTful routing as follows:
+- Use Handelbars to create views for your RESTful routing as follows:
   - An index page and a page to create new quotes with a form
   - One partial for the footer, head, and header that get rendered on each page
 
@@ -26,5 +28,5 @@ Do your best to make it stylish, bonus points for pretty.
 
 ## Additional Resources
 
-- [http://www.embeddedjs.com/](http://www.embeddedjs.com/)
-- [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+- [http://handlebarsjs.com/](http://handlebarsjs.com/)
+- [Write Templates Like A Node.js Pro: Handlebars Tutorial](http://webapplog.com/handlebars/)
