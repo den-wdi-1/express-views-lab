@@ -30,3 +30,7 @@ Do your best to make it stylish, bonus points for pretty.
 
 - [http://handlebarsjs.com/](http://handlebarsjs.com/)
 - [Write Templates Like A Node.js Pro: Handlebars Tutorial](http://webapplog.com/handlebars/)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
